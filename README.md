@@ -10,6 +10,11 @@
 - Header with navigation and search  
 - Footer with contact and social links
 
+# 🔗 Live Website
+
+➡️ [Click here to view the site](https://siddhu0704.github.io/nxtstep/main.html)
+
+
 # 📁 Files
 
 - `main.html` – Homepage  
